@@ -1,5 +1,5 @@
 
-<h1 align="center">Town of Next Edited-N(TONE)</h1>
+<h1 align="center">Town of Next Edited-N(TONEN)</h1>
 
 <br>
 
@@ -56,7 +56,7 @@
 
 ### :star: [TOHO](https://github.com/TOHOptimized/TownofHost-Optimized) 
 > 
-> - Some roles ideas.
+> - Some roles ideas
 > 
 ### :star: [TOHY](https://github.com/Yumenopai/TownOfHost_Y) :
 > 
@@ -109,7 +109,7 @@
 > - Provided role: Inspector (Inspector)
 ### :star: [NoS](https://github.com/Dolly1016/Nebula)
 > 
-> - 一些图标
+> - Some icon
 >
 ### :star: [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall)
 >
