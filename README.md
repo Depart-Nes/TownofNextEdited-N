@@ -30,25 +30,33 @@
 <br>
 
 **Credit to these mods and their developers for the code and help:**
-### :star: [TOHRE](https://github.com/Loonie-Toons/) 
-> 
-> - Town of Host: Enhanced was forked from Town of Host: Re-Edited.
->
-### :star: [NOS](https://github.com/Dolly1016/Nebula)
-> 
-> - 一些图标
->
-### :star: [TOHO](https://github.com/TOHOptimized/TownofHost-Optimized) 
-> 
-> - 一些角色想法
-> 
-### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
-> 
-> - Town of Host: Re-Edited was forked from Town of Host: Edited. (TONX)
-> 
 ### :star: [TOH](https://github.com/tukasa0001/TownOfHost) :
 > 
 > - Our repo is based initially on Town of Host.
+> 
+### :star: [TONE](https://github.com/qin-qwq/TownofNext-Edited) 
+> 
+> - TONEN was forked from TONE.
+> 
+### :star: [SNR](https://github.com/ykundesu/SuperNewRoles) :
+> 
+> - Reference: Credentials menu
+> - Reference: Switch Horse Mode
+> - Reference: Search Mod Game
+> - Reference: Custom Button
+>
+### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited) :
+> 
+> - Town of Host: Re-Edited was forked from Town of Host: Edited. (TONX)
+>
+### :star: [TOHRE](https://github.com/Loonie-Toons/) 
+> 
+> - Town of Host Enhanced was forked from Town of Host: Re-Edited.
+>
+
+### :star: [TOHO](https://github.com/TOHOptimized/TownofHost-Optimized) 
+> 
+> - Some roles ideas.
 > 
 ### :star: [TOHY](https://github.com/Yumenopai/TownOfHost_Y) :
 > 
@@ -64,13 +72,7 @@
 > - Reference: Exile Confirm
 > - Reference: Split RPC Pack
 > 
-### :star: [SNR](https://github.com/ykundesu/SuperNewRoles) :
-> 
-> - Reference: Credentials menu
-> - Reference: Switch Horse Mode
-> - Reference: Search Mod Game
-> - Reference: Custom Button
->
+
 ### :star: [TOP](https://github.com/tugaru1975/TownOfPlus) :
 > 
 > - Reference: Zoom
@@ -103,7 +105,12 @@
 > - Improve chat spam system (ChatManager.cs)
 ### :star: [Stellar Roles](https://github.com/Mr-Fluuff/StellarRolesAU)
 >
+>
 > - Provided role: Inspector (Inspector)
+### :star: [NoS](https://github.com/Dolly1016/Nebula)
+> 
+> - 一些图标
+>
 ### :star: [Mini.RegionInstall](https://github.com/miniduikboot/Mini.RegionInstall)
 >
 > - Using Mini.RegionInstall to add modded server regions
